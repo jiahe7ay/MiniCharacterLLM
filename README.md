@@ -59,7 +59,6 @@ python3 inference.py
 只要大模型说的话xxx会计算loss,用户说的话sss是不会计算loss的，只是他只是作为一个prompt
 
 
-![wiki+baidu.png](4.png)
 
 ### 训练效果
 
