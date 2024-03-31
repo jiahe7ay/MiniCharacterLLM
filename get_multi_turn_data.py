@@ -6,8 +6,7 @@ import requests
 import re
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-API_KEY = "TG885GFJUskqteqVlsInIWO4"
-SECRET_KEY = "EeLxf5eXyWbbfq04yY4l1kow2YRly19x"
+
 # API_KEY = None
 # SECRET_KEY = None
 
